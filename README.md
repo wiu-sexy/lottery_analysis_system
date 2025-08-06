@@ -1,4 +1,5 @@
 # 六合彩数据分析系统
+<img width="677" height="468" alt="Snipaste_2025-08-06_13-23-18" src="https://github.com/user-attachments/assets/18be6bcb-f62f-49a8-8ac4-f20f56d96581" />
 
 一个基于Flask和JavaScript的六合彩数据分析和预测系统，提供历史数据分析、趋势预测和智能预测功能。
 
